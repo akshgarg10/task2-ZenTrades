@@ -1,0 +1,65 @@
+.email-txt{
+    border: 0px solid !important;
+    width: 100%;
+    outline: none;
+}
+
+.mail-pw-txt{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px !important;
+}
+
+
+.main-div{
+    height: 400px;
+    width: 370px;
+}
+
+.header-txt{
+    background-color: red;
+    margin-top: 90px !important;
+}
+
+.forgot-txt{
+    font-size: 12px;
+}
+
+
+.container-div{
+    height: 350px;
+}
+
+.container-div-1{
+    width: 450px;
+    border: 1px solid grey;
+}
+
+.metrics-boxes{
+    width: 160px !important;
+    height: 50px;
+    margin-right: 15px;
+    margin-bottom: 5px;
+}
+
+.main-mainContainer{
+    width: 1000px;
+    margin: auto;
+}
+
+.txt-box-box{
+    font-size: 11px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.values-box-1{
+    color: red;
+    margin-left: 5px;
+    font-size: 12px;
+}
+
+.values-box-2{
+    margin-left: 5px;
+    font-size: 12px;
+}
